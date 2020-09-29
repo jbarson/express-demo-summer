@@ -1,0 +1,14 @@
+{
+  "name": "express-demo-summer",
+  "version": "0.0.1",
+  "description": "Demo for the class",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
